@@ -28,13 +28,12 @@ we could also put this in a separate wiki file
 - Isak Näslund
 
 **Co-organizers:**
-- Nicolo Bencini
 - Cecilie Brandt
-- Puria Hesari
+- Johanna Isaksson
 - Emil Poulsen
 
 **Students:**
-- AT2, 2017
+- AT2, 2019
 
 ## Sponsors
 Cramo, Buro Happold, Thornton Tomasetti CORE studio, BIG Engineering
@@ -43,7 +42,4 @@ Cramo, Buro Happold, Thornton Tomasetti CORE studio, BIG Engineering
 We're releasing this under MIT, which means that you're free to do whatever you want with it as long as we are credited.
 
 ## Misc
-Have fun! We certainly did. Here's proof:
-https://vimeo.com/253625025
-
-
+Have fun!
